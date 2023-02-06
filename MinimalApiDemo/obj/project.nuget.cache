@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "2IPx/2jsCs6TBnbcCkTD2aFjK0E6ynRA9n2peeC6y5RR1rtGU+fP6mdAz10V8/06RDhTWRE4mVxzAR1Xrxoqmw==",
+  "success": true,
+  "projectFilePath": "/Users/arnopan/Desktop/GitHub/Projects/ApiDemo/MinimalApiDemo/MinimalApiDemo.csproj",
+  "expectedPackageFiles": [
+    "/Users/arnopan/.nuget/packages/microsoft.aspnetcore.openapi/7.0.2/microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
+    "/Users/arnopan/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/arnopan/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/arnopan/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/arnopan/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/arnopan/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/arnopan/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
